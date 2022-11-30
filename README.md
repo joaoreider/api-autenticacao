@@ -2,7 +2,7 @@
 
 
 <p style='text-align: justify;'> 
-Uma API de autenticação que gera token de acesso para um usuário que fez logado com o armazenamento das informações em um banco de dados MySQL.
+Uma API de autenticação que gera token de acesso para um usuário que fez login e suas informações são armazenadas em um banco de dados MySQL.
 </p>
 
 
